@@ -1,92 +1,132 @@
-## Hi there 👋
+<!-- Profile README for Mohamed Tawfik -->
 
-I'm **Mohamed Tawfik**, a Mechatronics Engineer with a strong passion for **robotics**, **computer vision**, **embedded systems**, and **AI**.
+<h1 align="center">Hi, I'm Mohamed Tawfik 👋</h1>
 
-I focus on building autonomous systems that combine perception, control, and intelligence to interact effectively with real-world environments.
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=700&center=true&vCenter=true&width=700&lines=Robotics+%26+Computer+Vision+Engineer;ROS+%7C+Embedded+Systems+%7C+AI;Building+autonomous+systems+from+perception+to+control">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=700&center=true&vCenter=true&width=700&lines=Robotics+%26+Computer+Vision+Engineer;ROS+%7C+Embedded+Systems+%7C+AI;Building+autonomous+systems+from+perception+to+control" />
+  </a>
+</p>
 
-I specialize in developing robotic platforms using **ROS**, implementing **real-time computer vision**, and deploying AI models on embedded devices. My work bridges the gap between hardware and intelligent software, aiming to create impactful, practical solutions in robotics and automation.
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-tawfik11/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Tawfik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:motawfik95@gmail.com">
+    <img src="https://img.shields.io/badge/Email-motawfik95%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&label=Profile+Views" />
+</p>
 
 ---
 
-## 🧠 Core Interests & Skills
+## About Me
+
+I'm a **Mechatronics Engineer** focused on building **autonomous robotic systems** that connect:
+**perception (vision)** → **decision-making (AI)** → **control (real-time robotics)**.
+
+- 🤖 Strong in **ROS (ROS 1 & ROS 2)**, navigation, SLAM, AMCL, and simulation  
+- 👁️ Practical **computer vision** (YOLO, Mask R-CNN, OpenCV) from dataset → training → deployment  
+- ⚙️ Embedded systems: **C/C++**, microcontrollers, sensor integration, UART/I2C/SPI  
+- 💡 I enjoy building real products that work reliably in real environments
+
+---
+
+## Core Skills
 
 ### 🤖 Robotics & Autonomous Systems
-- ROS (ROS 1 & ROS 2), Navigation Stack, SLAM, AMCL, PID control  
-- Gazebo & RViz simulation, autonomous planning, sensor fusion  
+- ROS 1 / ROS 2, TF, Nav Stack, SLAM, AMCL  
+- PID control, sensor fusion, motion planning  
+- Gazebo, RViz, debugging & system integration
 
 ### 👁️ Computer Vision & AI
-- Object detection, segmentation (YOLO, Mask R-CNN), lane tracking  
-- Multi-camera systems, dataset creation, model training & fine-tuning  
-- OpenCV, PyTorch, TensorFlow  
+- Object detection & segmentation: YOLO, Mask R-CNN  
+- OpenCV pipelines, multi-camera systems  
+- Training & fine-tuning with PyTorch / TensorFlow
 
 ### ⚙️ Embedded Systems
-- C, C++, Arduino, microcontroller programming  
-- Embedded Linux, sensor integration, UART, LCD, keypad, buzzer, servo motors  
+- C / C++, Arduino, MCU programming  
+- Embedded Linux basics, drivers & interfaces  
+- Sensors + actuators: LCD, keypad, buzzer, servo, UART/I2C
 
 ### 💻 Software Development
-- Object-oriented programming (OOP), C++, STL, templates, file handling  
-- Real-time systems, modular design, exception handling  
+- Modern C++ (STL, templates, smart pointers)  
+- Modular architecture, clean interfaces, file persistence  
+- Reliability-focused debugging & testing mindset
 
 ---
 
-## 🚀 Projects
+## Featured Projects
 
-### 🎓 Autonomous Smart Wheelchair
-An autonomous wheelchair for disabled patients using **ROS Noetic**, **Intel RealSense**, and **Mask R-CNN**.  
-Features real-time object detection, traffic light recognition, and autonomous navigation for safe and intelligent indoor mobility.
+> Tip: link each title to its repo for a more “professional portfolio” feel.
 
-### 🏠 Smart Home System
-Built with two microcontrollers communicating via UART. Includes:
-- Keypad & LCD for password entry  
-- Servo motor for door control  
-- Temperature-controlled fan  
-- Buzzer alert system  
+- **Autonomous Smart Wheelchair (ROS Noetic + RealSense + Mask R-CNN)**  
+  Real-time object detection + traffic light recognition + indoor navigation.
 
-### 💧 Smart Irrigation System
-Arduino-based system using soil moisture and pH sensors to automatically water plants.  
-LCD displays real-time sensor data and motor status. Increases water efficiency and reduces manual effort.
+- **Computer Vision Retail Detection (YOLOv8 + 3 Cameras)**  
+  Custom dataset for Egyptian grocery products, real-time multi-camera inference, **90%+ accuracy**.
 
-### 🧠 Computer Vision Retail Detection – YOLOv8 + 3 Cameras
-Trained a YOLOv8 model on a custom dataset of Egyptian grocery store products using a 3-camera setup.  
-Achieved **90%+ accuracy** under varied lighting and angles. Demonstrated dataset creation, model training, and real-time deployment.
+- **ROS 2 Autonomous Driving (Simulation)**  
+  Lane tracking + object detection + PID speed control in Gazebo.
 
-### 🚗 ROS 2 Autonomous Driving System
-Simulated a self-driving car using **ROS 2**, **YOLOv5**, and **PID control**.  
-Features include lane tracking, object detection, and speed regulation. Built in Gazebo with real-time feedback.
+- **Smart Home System (UART + Keypad/LCD + Servo + Alerts)**  
+  Password-based access, actuation, and sensor-driven automation.
 
-### 🚗 ROS 1 Autonomous Car
-Created a small autonomous car using **ROS Noetic**, **SLAM**, **AMCL**, and camera-based object detection.  
-Fully mapped and navigated real environments.
+- **Smart Irrigation System (Arduino + Soil Moisture/pH)**  
+  Automated watering with live LCD feedback for efficient water usage.
 
-### 🚘 Smart Garage System
-Developed a garage automation system using Arduino Uno, ultrasonic sensors, and servo motor.  
-Includes keypad and LCD for PIN entry and live feedback.
-
-### 🏫 School Management System (C-Based)
-Functional system to manage student data and administrative tasks using C programming.
-
-### 💻 Advanced C++ Project
-Developed a modular C++ application to explore OOP, STL, templates, file I/O, and exception handling.  
-Focused on real-world scalable architecture and best practices.
+- **C / C++ Systems Projects**
+  - School Management System (C)
+  - Advanced C++ modular application (OOP, STL, file I/O, exceptions)
 
 ---
 
-## 🎓 Education
-
-**BSc in Mechatronics Engineering** – Future University in Egypt  
+## Education
+**BSc in Mechatronics Engineering — Future University in Egypt**  
 Graduated with **A+ (Distinction)**  
-Focused on robotics, embedded systems, and computer vision throughout my studies and graduation project.
+Focused on robotics, embedded systems, and computer vision.
 
 ---
 
-## 💬 Let's Connect
+## Tech Stack
 
-I'm currently working as a **Robotics and Computer Vision Engineer**, always learning and building.  
-Feel free to explore my projects, give them a ⭐ if you find them useful, and reach out if you’d like to collaborate on something cool!
+<p align="center">
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ---
 
-## 📫 Contact Me
+## GitHub Analytics (Auto-Updating)
 
-- [LinkedIn](https://www.linkedin.com/in/mohamed-tawfik11/)  
-- motawfik95@gmail.com
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&rank_icon=github&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true" />
+</p>
+
+---
+
+## Contributions “Snake” Animation 🐍
+> Enable this by adding the GitHub Action (instructions below).
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## Let’s Connect
+- LinkedIn: https://www.linkedin.com/in/mohamed-tawfik11/  
+- Email: motawfik95@gmail.com
