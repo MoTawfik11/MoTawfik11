@@ -89,4 +89,4 @@ Feel free to explore my projects, give them a ⭐ if you find them useful, and r
 ## 📫 Contact Me
 
 - [LinkedIn](https://www.linkedin.com/in/mohamed-tawfik11/)  
-- 📧 Email: motawfik95@gmail.com
+- motawfik95@gmail.com
