@@ -15,7 +15,7 @@
   <a href="mailto:motawfik95@gmail.com">
     <img src="https://img.shields.io/badge/Email-motawfik95%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=MoTawfik11&style=for-the-badge&label=Profile+Views" />
 </p>
 
 ---
