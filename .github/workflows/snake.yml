@@ -15,9 +15,10 @@ jobs:
       - name: Generate snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: YOUR_GITHUB_USERNAME
+          github_user_name: MoTawfik11
           outputs: |
             dist/github-contribution-grid-snake.svg
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
