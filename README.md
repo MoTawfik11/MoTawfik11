@@ -100,30 +100,29 @@ Focused on robotics, embedded systems, and computer vision.
 </p>
 
 ---
-
 ## GitHub Analytics (Auto-Updating)
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&rank_icon=github&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MoTawfik11&show_icons=true&rank_icon=github&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoTawfik11&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" />
+  <img height="180" src="https://streak-stats.demolab.com?user=MoTawfik11&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoTawfik11&hide_border=true" />
 </p>
 
 ---
 
 ## Contributions “Snake” Animation 🐍
-> Enable this by adding the GitHub Action (instructions below).
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/MoTawfik11/MoTawfik11/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
 
 ---
 
